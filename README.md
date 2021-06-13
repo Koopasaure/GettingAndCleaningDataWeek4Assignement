@@ -10,7 +10,8 @@ There are different categories of data :
    - Y data represents the activity that was performed to get the X data on this row
    - Subject data represents which one of the 30 subjects performed the activity on this row
 
-This code was written according to the instructions given by the week 4 assignment of the Getting and Cleaning data Coursera Course
+This code was written according to the instructions given by the week 4 assignment of the Getting and Cleaning data Coursera Course :
+
     1- Merges the training and the test sets to create one data set.
       a - Read all datasets from training and tests from the downloaded data
       b - Merging all datasets into one dataset
